@@ -1,5 +1,5 @@
 +++
-<!-- # A Demo section created with the Blank widget.
+# A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
@@ -65,22 +65,22 @@ The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your 
 - 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
 - ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://wowchemy.com/updates/) -->
 
-<!-- ## Crowd-funded open-source software
+## Crowd-funded open-source software
 
 To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
 
 ### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
 
-## You're looking at a Wowchemy _widget_ -->
+## You're looking at a Wowchemy _widget_
 
-<!-- {{% callout note %}}
+ {{% callout note %}}
 This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
 
 Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
 
 **To remove this section, delete `content/home/demo.md`.**
-{{% /callout %}} -->
+{{% /callout %}} 
 
 ## Get inspired
 
-<!-- [Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/). -->
+ [Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/). 

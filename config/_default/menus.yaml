@@ -7,6 +7,14 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Corsi
+    url: '/corsi'
+    weight: 20
+    identifier: corsi
+  - name: Informatica
+    url: '/corsi/informatica/'
+    weight: 10
+    parent: corsi
   - name: Posts
     url: '#posts'
     weight: 20

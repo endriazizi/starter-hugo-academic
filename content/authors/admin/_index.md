@@ -1,7 +1,7 @@
 ---
 title: Endri Azizi
 role: Professor of Artificial Intelligence
-avatar_filename: foto-endri-azizi.png
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:

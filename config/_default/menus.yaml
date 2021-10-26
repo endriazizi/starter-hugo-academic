@@ -15,6 +15,10 @@ main:
     url: '/corsi/informatica/'
     weight: 10
     parent: corsi
+  - name: Informatica 3OSA
+    url: '/corsi/informatica3osa/'
+    weight: 10
+    parent: corsi
   - name: Posts
     url: '#posts'
     weight: 20

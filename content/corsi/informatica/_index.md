@@ -10,6 +10,11 @@ type: book
 
 {{< toc hide_on="xl" >}}
 
+## Link Mysql
+* **[Guida java](https://www.mysqltutorial.org/mysql-sample-database.aspx):** Come scaricare il database di esempio
+- https://www.mysqltutorial.org/mysql-sample-database.aspx
+
+- Fundamental {{<hl>}}Python programming skills{{</hl>}}
 ## What you will learn
 
 - Fundamental {{<hl>}}Python programming skills{{</hl>}}
